@@ -1,0 +1,4 @@
+name: pulumi-nginx-deploy
+runtime: python
+description: A simple Nginx deployment using Pulumi and Kubernetes
+main: app/
