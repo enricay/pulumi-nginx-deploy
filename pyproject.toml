@@ -3,6 +3,7 @@ name = "pulumi-nginx-deploy"
 version = "0.1.0"
 description = "A simple Nginx deployment using Pulumi and Kubernetes"
 authors = ["Your Name <your.email@example.com>"]
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.10"
